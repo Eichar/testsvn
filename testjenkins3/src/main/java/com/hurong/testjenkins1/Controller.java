@@ -10,7 +10,7 @@ public class Controller {
     @RequestMapping(path = "/ping")
     public String ping() {
 
-        return "这是第 10 次testjenkis!";
+        return "这是第 11 次testjenkis!";
 
 
     }
